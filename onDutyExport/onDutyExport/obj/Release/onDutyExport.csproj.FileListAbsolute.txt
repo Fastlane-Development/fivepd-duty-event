@@ -1,0 +1,11 @@
+C:\Users\Rex\source\repos\onDutyExport\onDutyExport\bin\Release\onDutyExport.net.dll
+C:\Users\Rex\source\repos\onDutyExport\onDutyExport\bin\Release\onDutyExport.net.pdb
+C:\Users\Rex\source\repos\onDutyExport\onDutyExport\bin\Release\CitizenFX.Core.Client.dll
+C:\Users\Rex\source\repos\onDutyExport\onDutyExport\bin\Release\FivePD.net.dll
+C:\Users\Rex\source\repos\onDutyExport\onDutyExport\bin\Release\CitizenFX.Core.Client.xml
+C:\Users\Rex\source\repos\onDutyExport\onDutyExport\bin\Release\FivePD.net.xml
+C:\Users\Rex\source\repos\onDutyExport\onDutyExport\obj\Release\onDutyExport.csproj.AssemblyReference.cache
+C:\Users\Rex\source\repos\onDutyExport\onDutyExport\obj\Release\onDutyExport.csproj.CoreCompileInputs.cache
+C:\Users\Rex\source\repos\onDutyExport\onDutyExport\obj\Release\onDutyExport.csproj.CopyComplete
+C:\Users\Rex\source\repos\onDutyExport\onDutyExport\obj\Release\onDutyExport.net.dll
+C:\Users\Rex\source\repos\onDutyExport\onDutyExport\obj\Release\onDutyExport.net.pdb
