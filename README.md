@@ -15,6 +15,7 @@ It only returns one boolen argument
 **EXAMPLE**
 
 LUA
+
 `TriggerEvent('fivepd::dutyStatus', function(arg)
         dutyStatus = arg
     end)
