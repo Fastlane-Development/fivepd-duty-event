@@ -9,7 +9,7 @@ Drag and drop the .dll file into your plugins folder
 **USAGE**
 
 This adds the event  `fivepd::dutyStatus` to FivePD which returns a bool of true or false for the player based on their FivePD duty status.
-It only returns one boolen argument
+It only returns one boolean argument
 
 
 **EXAMPLE**
